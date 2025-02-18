@@ -1,6 +1,6 @@
 # 🚀 Anime Scene Retrieval Platform 🎬
 
-Welcome to the Anime Scene Retrieval Platform, where you can upload anime episodes and search for scenes effortlessly!
+Welcome to the Anime Scene Retrieval Platform, where you can search by explaining the scene and get the anime episodes effortlessly!
 
 ## Features ✨
 
